@@ -6,5 +6,5 @@ export default function () {
 }
 
 export const metadata: Metadata = {
-  title: 'Websites Settings | umami',
+  title: 'Websites Settings',
 };

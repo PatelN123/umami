@@ -10,5 +10,5 @@ export default function () {
   );
 }
 export const metadata = {
-  title: 'Reports | umami',
+  title: 'Reports',
 };
